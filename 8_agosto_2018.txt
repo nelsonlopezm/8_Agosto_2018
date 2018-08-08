@@ -7,6 +7,6 @@ git estatus
 git add .
 git commit -m "prueba 8 agosto"
 git puhs origin master
-.
+.n
 
 
