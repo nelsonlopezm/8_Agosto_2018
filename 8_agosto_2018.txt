@@ -1,0 +1,12 @@
+notas 8 de agosto 2018
+
+git hub
+
+git init
+git estatus
+git add .
+git commit -m "prueba 8 agosto"
+git puhs origin master
+.
+
+
